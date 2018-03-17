@@ -4,4 +4,4 @@
 
 克隆此项目并在你选择的浏览器中打开 index.html 。
 
-仓库英文原链接：[ud989-pizzamvo](https://github.com/udacity/ud989-pizzamvo)
+仓库英文原链接：[ud989-retain](https://github.com/udacity/ud989-retain)
